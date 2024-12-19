@@ -1,1 +1,1 @@
-# zabbix-clouddirector-leases
+# zabbix-cloud-director-leases
